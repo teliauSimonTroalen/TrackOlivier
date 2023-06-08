@@ -74,20 +74,20 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
-/I C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate
-/I C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate"
+/I "D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Source"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h"
-/Yu"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Source\LesCopains.cpp"
-/FI"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Build\Win64\UE4\Development\LesCopains\Definitions.LesCopains.h"
-/Fo"C:\Users\mulal\Documents\GitHub\TrackOlivier\LesCopains\Intermediate\Build\Win64\UE4\Development\LesCopains\LesCopains.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h"
+/Yu"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h"
+/Fp"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Build\Win64\LesCopains\Development\Core\SharedPCH.Core.h.pch"
+"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Source\LesCopains.cpp"
+/FI"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Build\Win64\UE4\Development\LesCopains\Definitions.LesCopains.h"
+/Fo"D:\Jeux vidéo\TrackOlivier\LesCopains\Intermediate\Build\Win64\UE4\Development\LesCopains\LesCopains.cpp.obj"
 /TP
 /GR-
 /W4
